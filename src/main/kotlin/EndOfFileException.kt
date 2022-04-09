@@ -1,0 +1,1 @@
+class EndOfFileException : Exception()
